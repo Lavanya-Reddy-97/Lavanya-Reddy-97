@@ -1,6 +1,6 @@
 <h1 align="center">Hello(Namaste)🙏🏻 I'm Lavanya! 👋</h1>
 <h3 align="center">A Passionate Data Scientist from India ❤️</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTUxNHBsbzRzaGphNXZ0ZTZlc25tMWJpMms3YTN2a2diY2wycmVsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JTVWACMOESFcA1oewp/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanya-reddy-97&label=Profile%20views&color=0e75b6&style=flat" alt="lavanya-reddy-97" /> </p>
 
